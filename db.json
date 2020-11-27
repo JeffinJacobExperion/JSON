@@ -1,18 +1,23 @@
 {
-  "topics": [
+  "filters": [
     {
       "id": 1,
-      "title": "to learn angular",
+      "title": "All",
       "completed": false
     },
     {
       "id": 2,
-      "title": "to learn french",
+      "title": "Conventional",
       "completed": true
     },
     {
       "id": 3,
-      "title": "to learn some",
+      "title": "FHA",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "title": "VA",
       "completed": false
     }
   ]
