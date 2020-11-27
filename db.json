@@ -2,23 +2,19 @@
   "filters": [
     {
       "id": 1,
-      "title": "All",
-      "completed": false
+      "title": "All"
     },
     {
       "id": 2,
-      "title": "Conventional",
-      "completed": true
+      "title": "Conventional"
     },
     {
       "id": 3,
-      "title": "FHA",
-      "completed": false
+      "title": "FHA"
     },
     {
       "id": 4,
-      "title": "VA",
-      "completed": false
+      "title": "VA"
     }
   ]
 }
